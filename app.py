@@ -21,7 +21,7 @@ except:
     st.sidebar.write("🔬 Reactive Intermediate Revision")
 
 st.sidebar.header("Acknowledgements")
-st.sidebar.write("This web tool was built to support chemistry learning in Reactive Intermediate topic, University of Leeds.")
+st.sidebar.write("This web tool was built to support chemistry learning in Reactive Intermediates topic as part of CHEM3320/1 module, University of Leeds.")
 
 st.sidebar.header("Disclaimer")
 st.sidebar.write("This software was developed by BNNLab, with all rights reserved. It is offered 'as is', without warranty of any kind, express or implied. The user assumes all risk for any malfunctions, errors, or damages resulting from the use of this software. The creator is not responsible for any direct or indirect loss arising from its use.")
