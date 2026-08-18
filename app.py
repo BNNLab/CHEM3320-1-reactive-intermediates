@@ -9,8 +9,8 @@ from rdkit.Chem import inchi
 # -------------------------
 # CONFIG
 # -------------------------
-st.set_page_config(page_title="Reactive Intermediate Revision", layout="centered")
-st.title("Reactive Intermediate Revision")
+st.set_page_config(page_title="Reactive Intermediates Revision", layout="centered")
+st.title("Reactive Intermediates Revision")
 
 # -------------------------
 # SIDEBAR (UNCHANGED)
